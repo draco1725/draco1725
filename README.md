@@ -4,7 +4,7 @@
 
 # 👋 DRACO'S DEN
 
--  📫 pratikshetty172@gmail.com
+-  📫 draconic172@gmail.com
 -  🔭 I’m currently busy Playing CTFs (CTFTime, HackTheBox, TryHackMe, Pwnable.kr)
 -  🌱 I’m currently learning Penetration Testing & Preparing For OSCP !
 -  🎓 Working in a Pen Testing firm
