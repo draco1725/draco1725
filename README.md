@@ -5,8 +5,8 @@
 # 👋 DRACO'S DEN
 
 -  📫 draconic172@gmail.com
--  🔭 I’m currently busy Playing CTFs (CTFTime, HackTheBox, TryHackMe, Pwnable.kr)
--  🌱 I’m currently learning Penetration Testing & Preparing For OSCP !
+-  🔭 I’m currently busy learning Smart Contract Testing 
+-  🌱 Love to work on solidity and maybe upcoming will be RUST
 -  🎓 Working in a Pen Testing firm
 
  
