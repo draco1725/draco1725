@@ -19,5 +19,5 @@
 ![Cli3nt's github stats](https://github-readme-stats.vercel.app/api?username=draco1725&count_private=true&show_icons=true&theme=radical)<a href="https://github.com/draco1725">
  
  
-<a href="https://github.com/devCli3nt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=draco1725&layout=compact&theme=radical"/></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=draco1725&layout=compact&theme=radical"/></a>
 
