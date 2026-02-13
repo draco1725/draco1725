@@ -148,6 +148,32 @@ CVE-2023-3986   │ Open Source Security
 </p>
 
 ---
+🎮 Cybersecurity Training 
+
+<div align="center">
+HackTheBox Profile
+<a href="https://app.hackthebox.com/profile/388144">
+  <img src="https://www.hackthebox.eu/badge/image/388144" alt="HackTheBox Badge"/>
+</a>
+<p>
+  <a href="https://app.hackthebox.com/profile/388144">
+    <img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  </a>
+</p>
+  
+TryHackMe Profile
+<a href="https://tryhackme.com/p/draco1725">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/draco1725.png" alt="TryHackMe Badge"/>
+</a>
+<p>
+  <a href="https://tryhackme.com/p/draco1725">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-C11111?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
+</p>
+<script src="https://tryhackme.com/badge/169986"></script>
+</div
+  
+---
 
 ## 🛠️ Technical Arsenal
 
