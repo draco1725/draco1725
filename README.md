@@ -259,11 +259,11 @@ CVE-2023-3986   │ Open Source Security
 | 🎯 Metric | 📊 Count |
 |-----------|----------|
 | Security Assessments Led | 15+ |
-| Vulnerability Reports | 40+ |
+| Vulnerability Reports | 80+ |
 | Bug Bounties (Companies) | 20+ |
 | CVEs Published | 13 |
-| Professionals Trained | 50+ |
-| Hall of Fame Entries | 5+ |
+| Professionals Trained | 20+ |
+| Hall of Fame Entries | 15+ |
 | Years of Experience | 4+ |
 
 </div>
