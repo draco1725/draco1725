@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Pratik%20Shetty&fontSize=80&fontAlignY=35&desc=Cybersecurity%20Researcher%20|%20Red%20Team%20Operator%20|%20Bug%20Bounty%20Hunter&descAlignY=51&descAlign=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Pratik%20Shetty&fontSize=75&fontAlignY=35&desc=Cybersecurity%20Researcher%20|%20Red%20Team%20Operator%20|%20Bug%20Bounty%20Hunter&descAlignY=51&descAlign=50&animation=fadeIn)
 
 </div>
 
