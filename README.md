@@ -148,31 +148,27 @@ CVE-2023-3986   │ Open Source Security
 </p>
 
 ---
+
 🎮 Cybersecurity Training 
 
-<div align="center">
-HackTheBox Profile
-<a href="https://app.hackthebox.com/profile/388144">
-  <img src="https://www.hackthebox.eu/badge/image/388144" alt="HackTheBox Badge"/>
-</a>
-<p>
+<p align="center">
   <a href="https://app.hackthebox.com/profile/388144">
-    <img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackTheBox-Draco172%20|%20Pro%20Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox"/>
   </a>
-</p>
-  
-TryHackMe Profile
-<a href="https://tryhackme.com/p/draco1725">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/draco1725.png" alt="TryHackMe Badge"/>
-</a>
-<p>
   <a href="https://tryhackme.com/p/draco1725">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-C11111?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TryHackMe-draco1725%20|%20Rank%20[0x9]-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
   </a>
 </p>
-<script src="https://tryhackme.com/badge/169986"></script>
-</div
-  
+
+<p align="center">
+  <a href="https://app.hackthebox.com/profile/388144">
+    <img src="https://www.hackthebox.eu/badge/image/388144" alt="HTB Badge" height="100"/>
+  </a>
+  <a href="https://tryhackme.com/p/draco1725">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/draco1725.png" alt="THM Badge" height="100"/>
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Technical Arsenal
